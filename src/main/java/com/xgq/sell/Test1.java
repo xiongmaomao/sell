@@ -9,7 +9,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 
-
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @Slf4j
@@ -22,5 +21,7 @@ public class Test1 {
         s.setName("xiong");
         log.info("====info"+s.toString());
         log.error("====error"+s.toString());
+
+
     }
 }

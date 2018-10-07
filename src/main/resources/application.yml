@@ -1,0 +1,14 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.8.151:3306/springboot?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    username: root
+    password: 123456
+  jpa:
+    show-sql: true
+#logging:
+ # pattern:
+ #   console: "%d - %msg%n"
+  #path: /var/log/tomcat
+

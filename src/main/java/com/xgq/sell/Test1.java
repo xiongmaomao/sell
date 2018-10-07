@@ -21,7 +21,7 @@ public class Test1 {
         s.setName("xiong");
         log.info("====info"+s.toString());
         log.error("====error"+s.toString());
-
+        log.debug("====debug"+s.toString());
 
     }
 }

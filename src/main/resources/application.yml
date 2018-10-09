@@ -7,8 +7,8 @@ spring:
     password: 123456
   jpa:
     show-sql: true
-#logging:
- # pattern:
- #   console: "%d - %msg%n"
-  #path: /var/log/tomcat
+server:
+  servlet:
+    context-path: /sell
+
 

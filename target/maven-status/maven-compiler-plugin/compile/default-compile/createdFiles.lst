@@ -1,0 +1,11 @@
+com\xgq\sell\service\ProductInfoService.class
+com\xgq\sell\controller\BuyerProductController.class
+com\xgq\sell\SellApplication.class
+com\xgq\sell\service\ProductCategoryService.class
+com\xgq\sell\service\impl\ProductInfoServiceImpl.class
+com\xgq\sell\domain\ProductInfo.class
+com\xgq\sell\domain\ProductCategory.class
+com\xgq\sell\enums\ProductStatusEnum.class
+com\xgq\sell\dao\ProductInfoDao.class
+com\xgq\sell\dao\ProductCategoryDao.class
+com\xgq\sell\service\impl\ProductCategoryServiceImpl.class
